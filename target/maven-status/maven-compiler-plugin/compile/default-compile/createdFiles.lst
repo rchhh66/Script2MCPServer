@@ -1,0 +1,6 @@
+com/example/scripttomcpserver/ScriptToMCPServerApplication.class
+com/example/scripttomcpserver/model/MCPServerConfig.class
+com/example/scripttomcpserver/controller/MCPServerController.class
+com/example/scripttomcpserver/service/MCPServerGeneratorService.class
+com/example/scripttomcpserver/config/FreeMarkerConfig.class
+com/example/scripttomcpserver/service/impl/MCPServerGeneratorServiceImpl.class
